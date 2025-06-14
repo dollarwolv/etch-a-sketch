@@ -1,0 +1,14 @@
+/* * { border: 1px solid black; } */
+
+div {
+    box-sizing: border-box;    
+}
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 960px;
+    height: 960px;
+    background-color: black;
+}
